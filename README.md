@@ -12,4 +12,4 @@
 
 # 4 更多 More
 
-更多说明请点击 [这里](http://www.bitem.cn)
+更多说明请点击 [这里](http://t.csdn.cn/5WUaK)
