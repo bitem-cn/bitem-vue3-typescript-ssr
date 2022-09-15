@@ -1,0 +1,22 @@
+{
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll.stylelint": true
+    },
+    // 使用vetur格式化*.vue文件
+    "vetur.format.defaultFormatterOptions": {
+        "js-beautify-html": {
+            "wrap_line_length": 150,
+            "wrap_attributes": "aligned-multiple",
+            "end_with_newline": false
+        }
+    },
+    "vetur.format.defaultFormatter.html": "js-beautify-html", // vue中的html使用js-beautify-html
+    "vetur.format.defaultFormatter.js": "vscode-typescript", // vue中的js使用vscode-typescript
+    "vetur.format.defaultFormatter.ts": "vscode-typescript", // vue中的ts使用vscode-typescript
+    // 使用TypeScript和JavaScript语言功能格式化*.ts和*.js文件
+    "typescript.format.semicolons": "remove",
+    "javascript.format.semicolons": "remove",
+    "files.eol": "\n",
+}
