@@ -12,8 +12,11 @@
 
 # 4 快速开始
 > git clone https://github.com/bitem-cn/bitem-vue3-typescript-ssr.git
+> 
 > cd bitem-vue3-typescript-ssr
+> 
 > yarn  // or npm install
+> 
 > yarn dev:ssr  // or npm run dev:ssr
 
 # 5 更多 More
